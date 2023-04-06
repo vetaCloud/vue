@@ -26,7 +26,7 @@ Your Private Key would be needed for the next process. You can get it [here](htt
 7. Extra 
 
 <br>
-Route: Route is the directory that you will be uploading your file to.
+Route: Route is the directory that you will be uploading your file to. In some instances, for IP restriction, we would return your ip address as it is been interpreted to our server, starting it with "172", it's safe, you can use it. It's still your IP Address. 
 
 # Basic upload
 
