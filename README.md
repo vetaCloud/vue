@@ -93,7 +93,7 @@ Videos that are uploaded via this endpoint do not regard the values specified fo
     })
     console.log(data)
   ```
-The first parameter is the height of the video. The second parameter is the length of the video. The third parameter is the quality of the video. To use the default detail of the video's height, length or quality, use 0. If you specify height, you must specify length and vise versa. If you specify length, width and quality, only the first two would be regarded. Quality shoulf be specified alone.
+The first parameter is the height of the video. The second parameter is the length of the video. The third parameter is the quality of the video. To use the default detail of the video's height, length or quality, use 0. If you specify height, you must specify length and vise versa. If you specify length, width and quality, only the first two would be regarded. Quality should be specified alone.
 
 # Delete file
 
